@@ -1,6 +1,8 @@
+<h1 align="center">
 
-### Hi there, It's Mahesh 👋
-
+  ### Hi there, It's Mahesh 👋
+**Statistician || Lecturer || Data Analyst || Public Speaker ||| Project Management || Data Science || IQVIAN**
+<br>
 **I am a Doctor of Philosophy (PhD) student in Statistics at Amity School of Applied Sciences, Amity University**
 
 📃Here is my personal webpage: [Mahesh Divakaran's Website](https://imaheshdivakaran.github.io/)
