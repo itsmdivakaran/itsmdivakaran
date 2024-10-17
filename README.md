@@ -5,7 +5,7 @@
 <br>
 **I am a Doctor of Philosophy (PhD) student in Statistics at Amity School of Applied Sciences, Amity University**
 
-📃Here is my personal webpage: [Mahesh Divakaran's Website](https://imaheshdivakaran.github.io/)
+📃Here is my personal webpage: [Mahesh Divakaran's Website](https://itsmdivakaran.github.io/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaheshdivakaran" alt="imaheshdivakaran" /> 
 
